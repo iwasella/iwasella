@@ -1,9 +1,4 @@
 <h3 align="center">Hello World</h3>
-<p align="center">
-My name is Ella.
-I like to make creative projects.<br>
-I'm currently exploring the field of data science, AI & ML, and product management.
-</p>
 
 <p align="center">
 <img width="498" height="235" alt="image" src="https://github.com/user-attachments/assets/2bcd2e6a-83b5-4143-800b-ca0cf11a2789" />
