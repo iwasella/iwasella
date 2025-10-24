@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  HTML · CSS · JavaScript · React · Node.js · Express · PostgreSQL · Prisma · JWT · n8n <br>
-  Figma · Illustrator · Photoshop · Canva · SharePoint Design · Power BI
+  Python · C++/C#/C · Java · MERN · PostgreSQL · SQL · n8n <br>
+  anything fun · everything cool · happiness · low cortisol levels  <br>
+  Figma · Adobe Creative Suite  · SharePoint Design · Power BI
 </p>
 
 
