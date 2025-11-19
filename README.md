@@ -33,6 +33,12 @@
 - Building an automated **database system** using **n8n** for data processing and workflow integration.  <br>
 - Tech: n8n
 
+[Parasocial Relations & Streamer Wellness Game Concept](https://github.com/iwasella/Parasocial-Relations-Study/tree/main) <br>
+**Honors Psychology Research Project & Game-Like EMA Prototype**  
+- Designed a research-backed **choice-based mobile game** to assess streamer mental health and parasocial pressure  
+- Developed **wireframes**, a **Duolingo-style lesson flow**, and metrics for relationship dynamics (reciprocity, influence, reliance, responsibility)  
+- Proposed a 3-day gameplay/assessment plan with flexible EMA entries, notifications, and community support  
+
 
 <h3 align="center">🧩 Additional Projects</h3>
 
