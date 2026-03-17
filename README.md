@@ -22,6 +22,14 @@
 
 <h3 align="center">Projects</h3>
 
+ *[Break Through Tech AI](https://www.breakthroughtech.org/) Fall Studio* | [Ai GutHealth Assistant](https://github.com/Break-Through-Tech-Ai-Root-Remedy/AI-Studio-Project) <br>
+ - AI-Assisted Development: Leveraged Gemini and ChatGPT for code scaffolding, debugging, and optimizing model hyperparameter comparison. <br>
+ - Data & Workflow: Built an automated **n8n** data pipeline to process and unify **20** proprietary health documents for the knowledge base.  <br>
+ - Machine Learning: Developed Decision Tree Classifier.  <br>
+ - Tools: Python: pandas, scikit-learn, n8n, Gemini, ChatGPT
+<br>
+<br>
+
 [LSU Cyber Security Website Redesign](https://github.com/CSC-3380-Spring-2025/Team-30) <br>
 - Contributed and buit role-based authentication with **JWT**, developed login/password features, and created an editable **event calendar** for officers.  <br>
 - Tools: React · Node.js · Express · PostgreSQL · Prisma · JWT <br>
@@ -35,14 +43,6 @@
 <br>
 <br>
 
-
- *[Break Through Tech AI](https://www.breakthroughtech.org/) Fall Studio* | Ai GutHealth Assistant <br>
- - AI-Assisted Development: Leveraged Gemini and ChatGPT for code scaffolding, debugging, and optimizing model hyperparameter comparison. <br>
- - Data & Workflow: Built an automated **n8n** data pipeline to process and unify **20** proprietary health documents for the knowledge base.  <br>
- - Machine Learning: Developed Decision Tree Classifier.  <br>
- - Tools: Python: pandas, scikit-learn, n8n, Gemini, ChatGPT
-<br>
-<br>
 
 [Parasocial Relations & Streamer Wellness Game Concept](https://github.com/iwasella/Parasocial-Relations-Study/tree/main) <br>
 **Honors Psychology Research Project & Game-Like EMA Prototype**  
