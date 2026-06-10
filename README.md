@@ -15,7 +15,10 @@
   <a href="https://www.linkedin.com/in/ella-vu-245764255/">LinkedIn</a> |
   <a href="https://iwasella.github.io/EllaSite/">Personal Website</a> |
   <a href="mailto:evu8@lsu.edu">evu8@lsu.edu</a>
+
 </p>
+
+Hi, I appreciate music, art, and all things creative. I'm learning how to contribute to open source. I'm also a student and still figuring my career. I enjoy sidequesting. Thank you.
 
 
 ---
