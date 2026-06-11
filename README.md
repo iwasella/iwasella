@@ -25,38 +25,14 @@ Hi, I appreciate music, art, and all things creative. I'm learning how to contri
 
 <h3 align="center">Projects</h3>
 
- *[Break Through Tech AI](https://www.breakthroughtech.org/) Fall Studio* | [Ai GutHealth Assistant](https://github.com/Break-Through-Tech-Ai-Root-Remedy/AI-Studio-Project) <br>
- - AI-Assisted Development: Leveraged Gemini and ChatGPT for code scaffolding, debugging, and optimizing model hyperparameter comparison. <br>
- - Data & Workflow: Built an automated **n8n** data pipeline to process and unify **20** proprietary health documents for the knowledge base.  <br>
- - Machine Learning: Developed Decision Tree Classifier.  <br>
- - Tools: Python: pandas, scikit-learn, n8n, Gemini, ChatGPT
-<br>
-<br>
+-  *[Break Through Tech AI](https://www.breakthroughtech.org/) Fall Studio* | [Ai GutHealth Assistant](https://github.com/Break-Through-Tech-Ai-Root-Remedy/AI-Studio-Project) <br>
 
-[LSU Cyber Security Website Redesign](https://github.com/CSC-3380-Spring-2025/Team-30) <br>
-- Contributed and buit role-based authentication with **JWT**, developed login/password features, and created an editable **event calendar** for officers.  <br>
-- Tools: React · Node.js · Express · PostgreSQL · Prisma · JWT <br>
-<br>
-<br>
+- [LSU Cyber Security Website Redesign](https://github.com/CSC-3380-Spring-2025/Team-30) <br>
 
-[Aquarium-Themed Cafe Manager](https://github.com/iwasella/aquarium-database-project)
-- Implemented SQL Schema and Reservation interface
-- Added setup for databse, schema, and seed data
-- Tools: Python, SQLite
-<br>
-<br>
+- [Aquarium-Themed Cafe Manager](https://github.com/iwasella/aquarium-database-project)<br>
+
+- [Parasocial Relations & Streamer Wellness Game Concept](https://github.com/iwasella/Parasocial-Relations-Study/tree/main) <br>
 
 
-[Parasocial Relations & Streamer Wellness Game Concept](https://github.com/iwasella/Parasocial-Relations-Study/tree/main) <br>
-**Honors Psychology Research Project & Game-Like EMA Prototype**  
-- Designed a research-backed **choice-based mobile game** to assess streamer mental health and parasocial pressure  
-- Developed **wireframes**, a **Duolingo-style lesson flow**, and metrics for relationship dynamics (reciprocity, influence, reliance, responsibility)  
-- Proposed a 3-day gameplay/assessment plan with flexible EMA entries, notifications, and community support  
-
-
-<h3 align="center">🧩 Additional Projects</h3>
-
-- [CuteCardCreator](https://github.com/iwasella/CuteCardCreator) – combined my budding art and coding skills <br>
-- [BookStore](https://github.com/iwasella/BookStore-MERN-Stack) – first time following a full-stack tutorial using MERN <br>
 - [AmazonNextDesignPresentation](https://github.com/iwasella/FreshnessScannerDesign) – past CodePath × AmazonNext design presentation <br>
 
