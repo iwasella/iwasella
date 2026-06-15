@@ -1,12 +1,4 @@
-<h3 align="center">Hello World</h3>
-<p align="center">I appreciate music, art, and all things creative. I'm learning how to contribute to     
-        open source. I'm a student and still figuring out my career. 
-        Thank you.
-      </p>
-<p align="center">
-   I also have a 
-  <a href="https://iwasella.github.io/EllaSite/">Personal Website</a>!
-</p>
+<h3 align="center">Previous Studies</h3>
 
 <table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
@@ -14,7 +6,7 @@
       <img width="200" height="auto" alt="profile-pic" src="https://github.com/user-attachments/assets/0938ed3f-4402-440a-9efa-ee51d86200f6" />
     </td>
     <td valign="middle" style="border: none; padding-left: 500px;">
-      <p align="center">Projects</p>
+      
 
 -  *[Break Through Tech AI](https://www.breakthroughtech.org/) Fall Studio* | [Ai GutHealth Assistant](https://github.com/Break-Through-Tech-Ai-Root-Remedy/AI-Studio-Project) <br>
 
