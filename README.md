@@ -1,24 +1,25 @@
-<h3 align="center">Previous Studies</h3>
-
-<table border="0" cellpadding="0" cellspacing="0" align="center">
+<h3 align="center">Hello World, this is Iwasella.</h3>
+<p align="center"> 
+  Python | C++ | C# 
+</p>
+<table align="center">
   <tr>
-    <td width="220" valign="top" style="border: none;">
-      <img width="200" height="auto" alt="profile-pic" src="https://github.com/user-attachments/assets/0938ed3f-4402-440a-9efa-ee51d86200f6" />
+    <td>
+      <img width="250" height="auto" alt="profile-pic" src="https://github.com/user-attachments/assets/0938ed3f-4402-440a-9efa-ee51d86200f6" />
     </td>
-    <td valign="middle" style="border: none; padding-left: 500px;">
-      
+    <td valign="middle">
+      <p>Thanks for looking at my Github. I'm a student.
+    I'm currently working on:
+        <ol>
+          <li>Graduating Undergrad.</li>
+          <li>Employment. 🥹💰</li>
+          <li>Contributing to Open Source.</li>
+        </ol>
+      Here's my <a href="https://example.com](https://iwasella.github.io/EllaSite/">My Portfolio Website</a> (Unity, Music Production, Art, & UI/UX design work).
+      </p>
+      <br>
 
--  *[Break Through Tech AI](https://www.breakthroughtech.org/) Fall Studio* | [Ai GutHealth Assistant](https://github.com/Break-Through-Tech-Ai-Root-Remedy/AI-Studio-Project) <br>
-
-- [LSU Cyber Security Website Redesign](https://github.com/CSC-3380-Spring-2025/Team-30) <br>
-
-- [Aquarium-Themed Cafe Manager](https://github.com/iwasella/aquarium-database-project)<br>
-
-- [Parasocial Relations & Streamer Wellness Game Concept](https://github.com/iwasella/Parasocial-Relations-Study/tree/main) <br>
-
-
-- [AmazonNextDesignPresentation](https://github.com/iwasella/FreshnessScannerDesign) – past CodePath × AmazonNext design presentation <br>
-    </td>
+ 
   </tr>
 </table>
 
