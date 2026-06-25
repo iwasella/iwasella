@@ -15,7 +15,7 @@
           <li>Employment. 🥹💰</li>
           <li>Contributing to Open Source.</li>
         </ol>
-      Here's my <a href="https://iwasella.github.io/EllaSite/">My Portfolio Website</a> (Unity, Music Production, Art, & UI/UX design work).
+      Here's my <a href="https://iwasella.github.io/EllaSite/">My Personal Website</a> (Music, Art, & UI/UX design work).
       </p>
       <br>
 
