@@ -11,8 +11,9 @@
       <p>Thanks for looking at my Github. I'm a student.
     I'm currently working on:
         <ol>
-          <li>Graduating Undergrad.</li>
-          <li>Employment. 🥹💰</li>
+          <li>Graduating.</li>
+          <li>Employment.</li>
+          <li>Music.</li>
           <li>Contributing to Open Source.</li>
         </ol>
       Here's my <a href="https://iwasella.github.io/EllaSite/">My Personal Website</a> (Music, Art, & UI/UX design work).
