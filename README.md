@@ -9,8 +9,6 @@
     </td>
     <td valign="middle">
       <p>I'm a college student right now. 
-        <br>
-      Here is my<a href="https://iwasella.github.io/EllaSite/"> Personal Website</a>.
       </p>
       <br>
 
